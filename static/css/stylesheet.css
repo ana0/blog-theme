@@ -1,5 +1,5 @@
 body {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Times', serif;
     color: black;
     margin: auto;
     max-width: 50em;
@@ -34,5 +34,8 @@ a {
 }
 
 .blog-post {
+    padding-left: 1em;
+}
+.footer-links {
     padding-left: 1em;
 }
