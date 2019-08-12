@@ -1,20 +1,35 @@
 body {
-    font-family: 'Times', serif;
+    font-family: "Exo 2", "Helvetica Neue", sans-serif;
     color: black;
     margin: auto;
     max-width: 50em;
+    /*background-color: #E32A0D;*/
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(170deg, #de3218, #de3218, #ffda08);
+    color: white;
+}
+
+h1 {
+    font-family: "Grenze", "Helvetica Neue", sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 1em;
 }
 
 #page-title {
-    text-align: center;
+    /*text-align: center;*/
+    margin-bottom: 2.5em;
 }
 
 #page-title h1 a, .post a {
-    color: black;
+    color: white;
 }
 
 a {
     text-decoration: none;
+/*    color: black;*/
 }
 
 #page-title a:hover, .post a:hover {
@@ -37,5 +52,5 @@ a {
     padding-left: 1em;
 }
 .footer-links {
-    padding-left: 1em;
+    /*padding-left: 1em;*/
 }
