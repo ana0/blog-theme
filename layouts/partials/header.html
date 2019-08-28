@@ -15,6 +15,9 @@
     <body>
         <section id="page-title">
             <h1><a href="/">{{ .Site.Params.sitename | default "Elephants"}}</a></h1>
-            <p>{{ .Site.Params.description | default "A blog by"}} <a href={{ .Site.Params.home }}>{{ .Site.Params.urlname | default "Your Name"}}</a></p>
+        </section>
+        <section id="blurb">
+            <span id="float">{{ .Site.Params.description | default "A blog"}}</span>
+            <span id="link"><a href={{ .Site.Params.home }}>{{ .Site.Params.urlname | default "Your Name"}}</a></span>
         </section>
 
