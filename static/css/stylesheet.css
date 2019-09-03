@@ -31,18 +31,12 @@ h1 {
     padding: 20px;
 }
 
-#page-title {
-    /*text-align: center;*/
-    margin-bottom: 2.5em;
-}
-
 #page-title h1 a, .post a {
     color: white;
 }
 
 a {
     text-decoration: none;
-/*    color: black;*/
 }
 
 #page-title a:hover, .post a:hover {
@@ -66,5 +60,15 @@ a {
     padding-left: 10px;
 }
 .footer-links {
-    /*padding-left: 1em;*/
+    padding: 20px;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
