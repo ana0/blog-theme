@@ -15,7 +15,7 @@
     <body>
         <section id="page-title">
             <!-- <h1><a href="/">{{ .Site.Params.sitename | default "Elephants"}}</a></h1> -->
-            <img src={{"/images/jupiterwhite7.png"}} class="logo">
+            <a href="{{ .Site.BaseURL }}"><img src={{"/images/jupiterwhite7.png"}} class="logo"></a>
         </section>
         <section id="blurb">
             <span id="float">{{ .Site.Params.description | default "A blog"}}</span>
