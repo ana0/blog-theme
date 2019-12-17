@@ -4,12 +4,12 @@ Based off [elephants](https://themes.gohugo.io/elephants/)
 
 ## Features
 * No JavaScript
-* High Contrast
+* Orange but still goth
 
 ## Installation
 In the folder of your Hugo site, run:
 ```
-    git submodule add https://gitlab.com/meibenny/elephants.git themes/elephants
+    git submodule add https://github.com/ana0/blog-theme.git themes/onlinegrimoire
 ```
 
 ## License

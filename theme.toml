@@ -1,12 +1,12 @@
-name = "Elephants"
+name = "Online grimoire"
 license = "MIT"
-licenselink = "https://github.com/meibenny/elephants/blob/master/LICENSE.md"
-description = "Minimal theme using the Ubuntu font."
-homepage = "https://gitlab.com/meibenny/elephants"
+licenselink = "https://github.com/ana0/blog-theme/blob/master/LICENSE.md"
+description = "Online grimoire"
+homepage = "https://github.com/ana0/blog-themes"
 tags = ["blog"]
 features = ["blog"]
 min_version = "0.30.2"
 
 [author]
-  name = "Benny Mei"
-  homepage = "https://gitlab.com/meibenny/elephants"
+  name = "Sarah Friend"
+  homepage = "https://github.com/ana0/blog-theme/"
