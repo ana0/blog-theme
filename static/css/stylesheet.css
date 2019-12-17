@@ -71,8 +71,14 @@ a:hover {
 
 .blog-post {
     background: rgba(0, 0, 0, 0.75);
-    padding: 10px;
+    padding: 20px;
+    padding-top: 30px !important;
 }
+
+.blog-post-subheader {
+    padding-top: 30px !important;
+}
+
 .footer-links {
     padding: 20px;
 }
